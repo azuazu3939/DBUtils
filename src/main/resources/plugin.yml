@@ -1,0 +1,4 @@
+name: DBUtils
+version: '${project.version}'
+main: mclove32.dbutils.DBUtils
+api-version: '1.20'
